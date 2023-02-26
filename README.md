@@ -9,7 +9,7 @@ Automatically install all Kali linux tools
 
 # Requirements
 - Python 3
-- An operating system (tested on Ubuntu)
+- An operating system (tested on Ubuntu and Mint)
 
 # Installation
 - sudo git clone https://github.com/bitpIus/katoolin-v2.git
